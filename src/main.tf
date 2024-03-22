@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket         = "767397811632-terraform-backend"
+    bucket         = "637423281280-terraform-backend"
     key            = "github/vitor-avanco/fastfood-infra-db"
     region         = "us-east-1"
   }
